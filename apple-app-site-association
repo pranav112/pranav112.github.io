@@ -6,6 +6,11 @@
            }
        ]
    },
+   "activitycontinuation": {
+       "apps": [
+          "ABCDE12345.com.example.app"
+       ]
+   },
    "webcredentials": {
       "apps": [ "ABCDE12345.com.example.app"]
    }
