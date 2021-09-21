@@ -1,7 +1,9 @@
 {
-   "activitycontinuation": {
-       "apps": [
-          "ABCDE12345.com.example.app"
+   "applinks": {
+      "details": [
+           {
+             "appIDs": [ "ABCDE12345.com.example.app" ]
+           }
        ]
    },
    "webcredentials": {
